@@ -4,7 +4,7 @@ Content-Type: application/json
 {
   "colour": "YELLOW",
   "size": "S",
-  "cottonPercentage": 50,
+  "cottonPart": 50,
   "quantity": 20
 }
 
@@ -14,7 +14,7 @@ Content-Type: application/json
 {
   "colour": "BLUE",
   "size": "XL",
-  "cottonPercentage": 80,
+  "cottonPart": 80,
   "quantity": 50
 }
 
@@ -24,7 +24,7 @@ Content-Type: application/json
 {
   "colour": "YELLOW",
   "size": "S",
-  "cottonPercentage": 50,
+  "cottonPart": 50,
   "quantity": 5
 }
 
